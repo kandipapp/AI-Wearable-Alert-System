@@ -64,7 +64,7 @@ source venv_AWAS/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt 
 
 # 4. Run the script
-python MQTT_publisher.py
+python MQTT_Publisher.py
 ```
 
 ### 2. Wearable (Arduino/ESP32)
